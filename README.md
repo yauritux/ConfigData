@@ -1,0 +1,2 @@
+# ConfigData
+Server Configuration Data
